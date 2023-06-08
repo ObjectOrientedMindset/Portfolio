@@ -12,7 +12,6 @@ public class HomeController : Controller
   {
     _logger = logger;
   }
-
   public IActionResult Index()
   {
     return View();
@@ -22,10 +21,14 @@ public class HomeController : Controller
   {
     return View();
   }
-  public IActionResult SendClick(string parameter)
-  {
 
-    return View();
+  [HttpPost]
+  public IActionResult SendMessage(string name, string email, string message)
+  {
+    //Save data to DB here ...
+
+
+    return View("Index");
   }
 
   [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

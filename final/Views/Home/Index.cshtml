@@ -791,13 +791,12 @@
             class="hoverline" target="_blank">linkedin.com/in/mithatuçar</a></a>
         </p>
         </div>
-        <form class="card contact-container">
+        <form class="card contact-container" method="POST" action="/Home/SendMessage">
         <h4><span>Welcome! </span>Leave a Message</h4>
         <input placeholder="Name" type="text" name="name" id="name" autocomplete="off"></input>
         <input placeholder="Email" type="text" name="email" id="email" autocomplete="off"></input>
-        <textarea id="text_area" class="text-box" style="resize:none; background-color:white;"></textarea>
-        <button class="msg-btn hoverline" type="submit" href="@Url.Action("SendClick", "HomeController", 
-        new{ name = "value",})" >Send</button>
+        <textarea id="text_area" class="text-box" name="message" style="resize:none; background-color:white;"></textarea>
+        <button class="msg-btn hoverline" type="submit">Send</button>
         </form> 
     </section>
   </main>
