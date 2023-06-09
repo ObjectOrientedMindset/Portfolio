@@ -195,15 +195,8 @@ nav i {
   top: 5px;
 }
 
-/* main */
-
-/* main {
-  background: url(../../assets/img/bg.png) repeat;
-  padding-left: 190px;
-} */
-
 main {
-  background: url(../img/bg.png) repeat;
+  background: url(../img/01.jpeg) repeat;
   padding-left: 190px;
 }
 
@@ -253,6 +246,7 @@ ul.table-of-contents li.logo a:hover {
   border: none;
   font-weight: 200;
 }
+
 
 .table-of-contents li.bold a{
   display: flex;
@@ -340,6 +334,9 @@ h3 {
   padding-top: 0;
   position: relative;
 }
+#contact.section.scrollspy{
+  height: max-content;
+}
 
 .full-height {
   height: 100vh;
@@ -347,13 +344,12 @@ h3 {
 
 /* Original */
 
-/* #intro.section {
-  background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
-  position: relative;
-} */
+#intro.section {
+  background: url(../img/ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg) no-repeat top center/cover;
+  position: relative; 
+}
 
 #intro.section {
-  background: #a7ffeb repeat;
   position: relative;
 }
 
@@ -520,8 +516,10 @@ a.hoverline {
 }
 .msg-btn:active {
   transform: scale(.99);
+}.activator:active{
+  
 }
-      
+
 /* main a.hoverline */
 
 /* a.hoverline:hover {
@@ -572,6 +570,9 @@ a.hoverline:hover {
 
 .card.medium .card-image {
   height: 240px;
+}
+.card.medium {
+  min-width: 240px;
 }
 
 .card-action a.btn-floating {
