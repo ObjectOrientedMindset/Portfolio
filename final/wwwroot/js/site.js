@@ -24,6 +24,12 @@ let flip_card = (param, arg) => {
         case 'close_third':
             $('.card-reveal.' + param).css('transform', 'translateY(100%)');
             break;
+        case 'flip_forth':
+            $('.card-reveal.' + param).css('transform', 'translateY(-100%)');
+            break;
+        case 'close_forth':
+            $('.card-reveal.' + param).css('transform', 'translateY(100%)');
+            break;
         default:
             break;
     }

@@ -573,6 +573,7 @@ a.hoverline:hover {
 }
 .card.medium {
   min-width: 240px;
+  max-width: 350px;
 }
 
 .card-action a.btn-floating {
@@ -618,13 +619,15 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #0b5e86 !important;
 }
 
 /* .teal {
   background-color: #00695c !important;
 } */
-
+.cours-info{
+  margin-left: -5%; 
+}
 @media (min-width: 1200px) {
   #experience .container {
     width: 860px;

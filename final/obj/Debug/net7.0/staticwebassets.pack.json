@@ -37,12 +37,36 @@
       "PackagePath": "staticwebassets/img/1 m9sSpxg6bsRgOZF7Rbyokw.png"
     },
     {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1024.webp",
+      "PackagePath": "staticwebassets/img/1024.webp"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1200px-SFML_Logo.svg.png",
+      "PackagePath": "staticwebassets/img/1200px-SFML_Logo.svg.png"
+    },
+    {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/2373842_a332_2.jpg",
       "PackagePath": "staticwebassets/img/2373842_a332_2.jpg"
     },
     {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/540px-Npm-logo.svg.png",
+      "PackagePath": "staticwebassets/img/540px-Npm-logo.svg.png"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/596913-1NFHA11523374623.jpeg",
+      "PackagePath": "staticwebassets/img/596913-1NFHA11523374623.jpeg"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/93768e7290bc8c8473a02561ac4e608642cfbaca.png",
+      "PackagePath": "staticwebassets/img/93768e7290bc8c8473a02561ac4e608642cfbaca.png"
+    },
+    {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg",
       "PackagePath": "staticwebassets/img/Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/C-C-C-1.png",
+      "PackagePath": "staticwebassets/img/C-C-C-1.png"
     },
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Deep-learning-for-computer-vision2.png",
@@ -55,6 +79,26 @@
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg",
       "PackagePath": "staticwebassets/img/Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Mithat_Uçar_Resume.pdf",
+      "PackagePath": "staticwebassets/img/Mithat_Uçar_Resume.pdf"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/NET_Core_Logo.svg.png",
+      "PackagePath": "staticwebassets/img/NET_Core_Logo.svg.png"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/React-icon.svg.png",
+      "PackagePath": "staticwebassets/img/React-icon.svg.png"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/SFMLGameEngineEdit.png",
+      "PackagePath": "staticwebassets/img/SFMLGameEngineEdit.png"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Unity_Technologies_logo.svg.png",
+      "PackagePath": "staticwebassets/img/Unity_Technologies_logo.svg.png"
     },
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg",
@@ -83,6 +127,10 @@
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/bootstrap.png",
       "PackagePath": "staticwebassets/img/bootstrap.png"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/cardealer-html-automotive-website-template.jpeg",
+      "PackagePath": "staticwebassets/img/cardealer-html-automotive-website-template.jpeg"
     },
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/computer-vision-v2-04.png",
@@ -143,6 +191,10 @@
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-zhiffy-logo-1.webp",
       "PackagePath": "staticwebassets/img/exp-zhiffy-logo-1.webp"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/expressjs.webp",
+      "PackagePath": "staticwebassets/img/expressjs.webp"
     },
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon.png",
@@ -297,12 +349,20 @@
       "PackagePath": "staticwebassets/img/html5.png"
     },
     {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/interactive-comment-section.png",
+      "PackagePath": "staticwebassets/img/interactive-comment-section.png"
+    },
+    {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/javascript-coding-wallpaper-1.jpg",
       "PackagePath": "staticwebassets/img/javascript-coding-wallpaper-1.jpg"
     },
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/javascript.png",
       "PackagePath": "staticwebassets/img/javascript.png"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/javascript_logo.png",
+      "PackagePath": "staticwebassets/img/javascript_logo.png"
     },
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/keras-logo.png",
@@ -357,6 +417,10 @@
       "PackagePath": "staticwebassets/img/nodejs.png"
     },
     {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/nodemon-logo-9F66F45AB1-seeklogo.com.png",
+      "PackagePath": "staticwebassets/img/nodemon-logo-9F66F45AB1-seeklogo.com.png"
+    },
+    {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/numpy-logo-1-500x500.jpg",
       "PackagePath": "staticwebassets/img/numpy-logo-1-500x500.jpg"
     },
@@ -397,6 +461,10 @@
       "PackagePath": "staticwebassets/img/postgresql.png"
     },
     {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/premake-logo.png",
+      "PackagePath": "staticwebassets/img/premake-logo.png"
+    },
+    {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/profile_pic.jpg",
       "PackagePath": "staticwebassets/img/profile_pic.jpg"
     },
@@ -433,138 +501,6 @@
       "PackagePath": "staticwebassets/img/project-build-a-Recommendation-Engine-With-Collaborative-Filtering_Watermarked.webp"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-library-logo.png",
-      "PackagePath": "staticwebassets/img/project-library-logo.png"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-logistic-Regression-in-Python_Watermarked.webp",
-      "PackagePath": "staticwebassets/img/project-logistic-Regression-in-Python_Watermarked.webp"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ml-1.jpg",
-      "PackagePath": "staticwebassets/img/project-ml-1.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ml-2.jpg",
-      "PackagePath": "staticwebassets/img/project-ml-2.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ml-3.jpg",
-      "PackagePath": "staticwebassets/img/project-ml-3.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ml-4.jpg",
-      "PackagePath": "staticwebassets/img/project-ml-4.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ml-5.jpg",
-      "PackagePath": "staticwebassets/img/project-ml-5.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ml-6.jpg",
-      "PackagePath": "staticwebassets/img/project-ml-6.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ml-7.jpg",
-      "PackagePath": "staticwebassets/img/project-ml-7.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ml-extra.jpg",
-      "PackagePath": "staticwebassets/img/project-ml-extra.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-music-player.png",
-      "PackagePath": "staticwebassets/img/project-music-player.png"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-practical-Text-Classification-with-Keras-and-Python_Watermark.webp",
-      "PackagePath": "staticwebassets/img/project-practical-Text-Classification-with-Keras-and-Python_Watermark.webp"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-Data-Science_Watermarked.webp",
-      "PackagePath": "staticwebassets/img/project-python-Data-Science_Watermarked.webp"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-Machine-Learning_Watermarked.webp",
-      "PackagePath": "staticwebassets/img/project-python-Machine-Learning_Watermarked.webp"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-django1-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-python-django1-1378x1000.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-django1.jpg",
-      "PackagePath": "staticwebassets/img/project-python-django1.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-django2-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-python-django2-1378x1000.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-django2.jpg",
-      "PackagePath": "staticwebassets/img/project-python-django2.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-django3-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-python-django3-1378x1000.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-django3.png",
-      "PackagePath": "staticwebassets/img/project-python-django3.png"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-django4-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-python-django4-1378x1000.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-django4.jpg",
-      "PackagePath": "staticwebassets/img/project-python-django4.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-flask-heroku-postgre.png",
-      "PackagePath": "staticwebassets/img/project-python-flask-heroku-postgre.png"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-flask1-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-python-flask1-1378x1000.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-flask1.jpg",
-      "PackagePath": "staticwebassets/img/project-python-flask1.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-flask2-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-python-flask2-1378x1000.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-flask2.jpg",
-      "PackagePath": "staticwebassets/img/project-python-flask2.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-flask3-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-python-flask3-1378x1000.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-flask3.png",
-      "PackagePath": "staticwebassets/img/project-python-flask3.png"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-flask4-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-python-flask4-1378x1000.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-python-flask4.jpg",
-      "PackagePath": "staticwebassets/img/project-python-flask4.jpg"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-quizup-logo-1.png",
-      "PackagePath": "staticwebassets/img/project-quizup-logo-1.png"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-three-Ways-of-Storing-and-Accessing-Lots-of-Images-in-Python_Watermarked.webp",
-      "PackagePath": "staticwebassets/img/project-three-Ways-of-Storing-and-Accessing-Lots-of-Images-in-Python_Watermarked.webp"
-    },
-    {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/python-logo-1-300x300.jpg",
       "PackagePath": "staticwebassets/img/python-logo-1-300x300.jpg"
     },
@@ -585,6 +521,10 @@
       "PackagePath": "staticwebassets/img/pytorch-logo.png"
     },
     {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/random-activity.png",
+      "PackagePath": "staticwebassets/img/random-activity.png"
+    },
+    {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/shell-logo-1-300x300.jpg",
       "PackagePath": "staticwebassets/img/shell-logo-1-300x300.jpg"
     },
@@ -599,6 +539,10 @@
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/sk-learn-logo-1.png",
       "PackagePath": "staticwebassets/img/sk-learn-logo-1.png"
+    },
+    {
+      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/swift-og.png",
+      "PackagePath": "staticwebassets/img/swift-og.png"
     },
     {
       "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/tensorflow-logo-1.png",
