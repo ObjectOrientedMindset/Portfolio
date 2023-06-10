@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ctjILYZrVypQByZGaOMFofR0GjImxH5X6htYgA/TSlI=",
+  "Hash": "DcBUHqC4C127iFRu4F6pRZvvcIf4l/cVxgdixk4FY8w=",
   "Source": "final",
   "BasePath": "_content/final",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "final/wwwroot",
+      "Name": "final\\wwwroot",
       "Source": "final",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/obj/Debug/net7.0/scopedcss/bundle/final.styles.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\obj\\Debug\\net7.0\\scopedcss\\bundle\\final.styles.css",
       "SourceId": "final",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/final",
       "RelativePath": "final.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mithatucar/Desktop/Portfolio/final/obj/Debug/net7.0/scopedcss/bundle/final.styles.css"
+      "OriginalItemSpec": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\obj\\Debug\\net7.0\\scopedcss\\bundle\\final.styles.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/obj/Debug/net7.0/scopedcss/projectbundle/final.bundle.scp.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\final.bundle.scp.css",
       "SourceId": "final",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/final",
       "RelativePath": "final.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mithatucar/Desktop/Portfolio/final/obj/Debug/net7.0/scopedcss/projectbundle/final.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\final.bundle.scp.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/.DS_Store",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\.DS_Store",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": ".DS_Store",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/.DS_Store"
+      "OriginalItemSpec": "wwwroot\\.DS_Store"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/css/site.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\css\\site.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/favicon.ico",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\favicon.ico",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/.DS_Store",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\.DS_Store",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/.DS_Store",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/.DS_Store"
+      "OriginalItemSpec": "wwwroot\\img\\.DS_Store"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/01.jpeg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\01.jpeg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/01.jpeg",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/01.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\01.jpeg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1 8N_C_zr-esOi-hjnzfURAg.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1 8N_C_zr-esOi-hjnzfURAg.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/1 8N_C_zr-esOi-hjnzfURAg.png",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/1 8N_C_zr-esOi-hjnzfURAg.png"
+      "OriginalItemSpec": "wwwroot\\img\\1 8N_C_zr-esOi-hjnzfURAg.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1 HgXA9v1EsqlrRDaC_iORhQ.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1 HgXA9v1EsqlrRDaC_iORhQ.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/1 HgXA9v1EsqlrRDaC_iORhQ.png",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/1 HgXA9v1EsqlrRDaC_iORhQ.png"
+      "OriginalItemSpec": "wwwroot\\img\\1 HgXA9v1EsqlrRDaC_iORhQ.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1 m9sSpxg6bsRgOZF7Rbyokw.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1 m9sSpxg6bsRgOZF7Rbyokw.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/1 m9sSpxg6bsRgOZF7Rbyokw.png",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/1 m9sSpxg6bsRgOZF7Rbyokw.png"
+      "OriginalItemSpec": "wwwroot\\img\\1 m9sSpxg6bsRgOZF7Rbyokw.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1024.webp",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1024.webp",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/1024.webp",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/1024.webp"
+      "OriginalItemSpec": "wwwroot\\img\\1024.webp"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1200px-SFML_Logo.svg.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1200px-SFML_Logo.svg.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/1200px-SFML_Logo.svg.png",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/1200px-SFML_Logo.svg.png"
+      "OriginalItemSpec": "wwwroot\\img\\1200px-SFML_Logo.svg.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/2373842_a332_2.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\2373842_a332_2.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/2373842_a332_2.jpg",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/2373842_a332_2.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\2373842_a332_2.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/540px-Npm-logo.svg.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\540px-Npm-logo.svg.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/540px-Npm-logo.svg.png",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/540px-Npm-logo.svg.png"
+      "OriginalItemSpec": "wwwroot\\img\\540px-Npm-logo.svg.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/596913-1NFHA11523374623.jpeg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\596913-1NFHA11523374623.jpeg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/596913-1NFHA11523374623.jpeg",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/596913-1NFHA11523374623.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\596913-1NFHA11523374623.jpeg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/93768e7290bc8c8473a02561ac4e608642cfbaca.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\93768e7290bc8c8473a02561ac4e608642cfbaca.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/93768e7290bc8c8473a02561ac4e608642cfbaca.png",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/93768e7290bc8c8473a02561ac4e608642cfbaca.png"
+      "OriginalItemSpec": "wwwroot\\img\\93768e7290bc8c8473a02561ac4e608642cfbaca.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/ai-wallpaper-1.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\ai-wallpaper-1.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/ai-wallpaper-1.jpg",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/ai-wallpaper-1.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\ai-wallpaper-1.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/arniva.jpeg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\arniva.jpeg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/arniva.jpeg",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/arniva.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\arniva.jpeg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/aws-logo.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\aws-logo.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/aws-logo.png",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/aws-logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\aws-logo.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/aws.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\aws.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/aws.png",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/aws.png"
+      "OriginalItemSpec": "wwwroot\\img\\aws.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/bg.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\bg.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/bg.png",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/bg.png"
+      "OriginalItemSpec": "wwwroot\\img\\bg.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/bootstrap.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\bootstrap.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/bootstrap.png",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/bootstrap.png"
+      "OriginalItemSpec": "wwwroot\\img\\bootstrap.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/C-C-C-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\C-C-C-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/C-C-C-1.png",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/C-C-C-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\C-C-C-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/cardealer-html-automotive-website-template.jpeg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\cardealer-html-automotive-website-template.jpeg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/cardealer-html-automotive-website-template.jpeg",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/cardealer-html-automotive-website-template.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\cardealer-html-automotive-website-template.jpeg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/computer-vision-v2-04.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\computer-vision-v2-04.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/computer-vision-v2-04.png",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/computer-vision-v2-04.png"
+      "OriginalItemSpec": "wwwroot\\img\\computer-vision-v2-04.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/css3-300x300.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\css3-300x300.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/css3-300x300.jpg",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/css3-300x300.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\css3-300x300.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/css3.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\css3.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/css3.png",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/css3.png"
+      "OriginalItemSpec": "wwwroot\\img\\css3.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Deep-learning-for-computer-vision2.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Deep-learning-for-computer-vision2.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/Deep-learning-for-computer-vision2.png",
       "AssetKind": "All",
@@ -524,30 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/Deep-learning-for-computer-vision2.png"
+      "OriginalItemSpec": "wwwroot\\img\\Deep-learning-for-computer-vision2.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/django-logo.webp",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\eat-sleep-code-repeat-wallpaper.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/django-logo.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/django-logo.webp"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/eat-sleep-code-repeat-wallpaper.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/eat-sleep-code-repeat-wallpaper.jpg",
       "AssetKind": "All",
@@ -558,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/eat-sleep-code-repeat-wallpaper.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\eat-sleep-code-repeat-wallpaper.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-cignex-logo-250x250.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-cignex-logo-250x250.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-cignex-logo-250x250.jpg",
       "AssetKind": "All",
@@ -575,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-cignex-logo-250x250.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\exp-cignex-logo-250x250.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-cignex-logo-500x500.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-cignex-logo-500x500.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-cignex-logo-500x500.jpg",
       "AssetKind": "All",
@@ -592,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-cignex-logo-500x500.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\exp-cignex-logo-500x500.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-cignex-logo.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-cignex-logo.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-cignex-logo.png",
       "AssetKind": "All",
@@ -609,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-cignex-logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\exp-cignex-logo.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-meditab-logo-250x250.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-meditab-logo-250x250.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-meditab-logo-250x250.jpg",
       "AssetKind": "All",
@@ -626,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-meditab-logo-250x250.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\exp-meditab-logo-250x250.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-meditab-logo-500x500.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-meditab-logo-500x500.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-meditab-logo-500x500.jpg",
       "AssetKind": "All",
@@ -643,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-meditab-logo-500x500.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\exp-meditab-logo-500x500.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-meditab-logo.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-meditab-logo.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-meditab-logo.png",
       "AssetKind": "All",
@@ -660,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-meditab-logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\exp-meditab-logo.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-mtag-logo-250x250.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-mtag-logo-250x250.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-mtag-logo-250x250.jpg",
       "AssetKind": "All",
@@ -677,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-mtag-logo-250x250.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\exp-mtag-logo-250x250.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-mtag-logo-500x500.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-mtag-logo-500x500.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-mtag-logo-500x500.jpg",
       "AssetKind": "All",
@@ -694,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-mtag-logo-500x500.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\exp-mtag-logo-500x500.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-mtag-logo.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-mtag-logo.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-mtag-logo.jpg",
       "AssetKind": "All",
@@ -711,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-mtag-logo.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\exp-mtag-logo.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-zhiffy-logo-1.webp",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-zhiffy-logo-1.webp",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/exp-zhiffy-logo-1.webp",
       "AssetKind": "All",
@@ -728,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/exp-zhiffy-logo-1.webp"
+      "OriginalItemSpec": "wwwroot\\img\\exp-zhiffy-logo-1.webp"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/expressjs.webp",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\expressjs.webp",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/expressjs.webp",
       "AssetKind": "All",
@@ -745,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/expressjs.webp"
+      "OriginalItemSpec": "wwwroot\\img\\expressjs.webp"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon.png",
       "AssetKind": "All",
@@ -762,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-144x144.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-144x144.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/android-icon-144x144.png",
       "AssetKind": "All",
@@ -779,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/android-icon-144x144.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\android-icon-144x144.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-192x192.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-192x192.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/android-icon-192x192.png",
       "AssetKind": "All",
@@ -796,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/android-icon-192x192.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\android-icon-192x192.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-36x36.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-36x36.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/android-icon-36x36.png",
       "AssetKind": "All",
@@ -813,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/android-icon-36x36.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\android-icon-36x36.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-48x48.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-48x48.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/android-icon-48x48.png",
       "AssetKind": "All",
@@ -830,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/android-icon-48x48.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\android-icon-48x48.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-72x72.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-72x72.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/android-icon-72x72.png",
       "AssetKind": "All",
@@ -847,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/android-icon-72x72.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\android-icon-72x72.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-96x96.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-96x96.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/android-icon-96x96.png",
       "AssetKind": "All",
@@ -864,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/android-icon-96x96.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\android-icon-96x96.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-114x114.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-114x114.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-114x114.png",
       "AssetKind": "All",
@@ -881,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-114x114.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-114x114.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-120x120.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-120x120.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-120x120.png",
       "AssetKind": "All",
@@ -898,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-120x120.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-120x120.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-144x144.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-144x144.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-144x144.png",
       "AssetKind": "All",
@@ -915,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-144x144.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-144x144.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-152x152.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-152x152.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-152x152.png",
       "AssetKind": "All",
@@ -932,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-152x152.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-152x152.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-180x180.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-180x180.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-180x180.png",
       "AssetKind": "All",
@@ -949,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-180x180.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-180x180.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-57x57.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-57x57.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-57x57.png",
       "AssetKind": "All",
@@ -966,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-57x57.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-57x57.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-60x60.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-60x60.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-60x60.png",
       "AssetKind": "All",
@@ -983,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-60x60.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-60x60.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-72x72.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-72x72.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-72x72.png",
       "AssetKind": "All",
@@ -1000,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-72x72.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-72x72.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-76x76.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-76x76.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-76x76.png",
       "AssetKind": "All",
@@ -1017,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-76x76.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-76x76.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-precomposed.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-precomposed.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon-precomposed.png",
       "AssetKind": "All",
@@ -1034,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon-precomposed.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon-precomposed.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/apple-icon.png",
       "AssetKind": "All",
@@ -1051,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/apple-icon.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\apple-icon.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/browserconfig.xml",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\browserconfig.xml",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/browserconfig.xml",
       "AssetKind": "All",
@@ -1068,13 +1051,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/browserconfig.xml"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\browserconfig.xml"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/favicon-16x16.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\favicon-16x16.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/favicon-16x16.png",
       "AssetKind": "All",
@@ -1085,13 +1068,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/favicon-16x16.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\favicon-16x16.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/favicon-32x32.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\favicon-32x32.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/favicon-32x32.png",
       "AssetKind": "All",
@@ -1102,13 +1085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/favicon-32x32.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\favicon-32x32.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/favicon-96x96.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\favicon-96x96.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/favicon-96x96.png",
       "AssetKind": "All",
@@ -1119,13 +1102,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/favicon-96x96.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\favicon-96x96.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/favicon.ico",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\favicon.ico",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/favicon.ico",
       "AssetKind": "All",
@@ -1136,13 +1119,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\favicon.ico"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/manifest.json",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\manifest.json",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/manifest.json",
       "AssetKind": "All",
@@ -1153,13 +1136,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/manifest.json"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\manifest.json"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/ms-icon-144x144.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\ms-icon-144x144.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/ms-icon-144x144.png",
       "AssetKind": "All",
@@ -1170,13 +1153,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/ms-icon-144x144.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\ms-icon-144x144.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/ms-icon-150x150.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\ms-icon-150x150.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/ms-icon-150x150.png",
       "AssetKind": "All",
@@ -1187,13 +1170,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/ms-icon-150x150.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\ms-icon-150x150.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/ms-icon-310x310.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\ms-icon-310x310.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/ms-icon-310x310.png",
       "AssetKind": "All",
@@ -1204,13 +1187,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/ms-icon-310x310.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\ms-icon-310x310.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/ms-icon-70x70.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\ms-icon-70x70.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/favicon/ms-icon-70x70.png",
       "AssetKind": "All",
@@ -1221,13 +1204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/favicon/ms-icon-70x70.png"
+      "OriginalItemSpec": "wwwroot\\img\\favicon\\ms-icon-70x70.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/featured_image-3.webp",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\featured_image-3.webp",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/featured_image-3.webp",
       "AssetKind": "All",
@@ -1238,13 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/featured_image-3.webp"
+      "OriginalItemSpec": "wwwroot\\img\\featured_image-3.webp"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/flask-logo.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\flask-logo.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/flask-logo.png",
       "AssetKind": "All",
@@ -1255,13 +1238,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/flask-logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\flask-logo.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/frontend-mentor-logo.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\frontend-mentor-logo.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/frontend-mentor-logo.png",
       "AssetKind": "All",
@@ -1272,13 +1255,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/frontend-mentor-logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\frontend-mentor-logo.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/futuristic-wallpaper.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\futuristic-wallpaper.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/futuristic-wallpaper.jpg",
       "AssetKind": "All",
@@ -1289,13 +1272,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/futuristic-wallpaper.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\futuristic-wallpaper.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/gan.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\gan.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/gan.jpg",
       "AssetKind": "All",
@@ -1306,13 +1289,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/gan.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\gan.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/git.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\git.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/git.png",
       "AssetKind": "All",
@@ -1323,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/git.png"
+      "OriginalItemSpec": "wwwroot\\img\\git.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/github.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\github.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/github.png",
       "AssetKind": "All",
@@ -1340,13 +1323,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/github.png"
+      "OriginalItemSpec": "wwwroot\\img\\github.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/heroku.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\heroku.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/heroku.png",
       "AssetKind": "All",
@@ -1357,13 +1340,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/heroku.png"
+      "OriginalItemSpec": "wwwroot\\img\\heroku.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/html5-300x300.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\html5-300x300.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/html5-300x300.jpg",
       "AssetKind": "All",
@@ -1374,13 +1357,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/html5-300x300.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\html5-300x300.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/html5.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\html5.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/html5.png",
       "AssetKind": "All",
@@ -1391,13 +1374,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/html5.png"
+      "OriginalItemSpec": "wwwroot\\img\\html5.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/interactive-comment-section.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\interactive-comment-section.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/interactive-comment-section.png",
       "AssetKind": "All",
@@ -1408,30 +1391,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/interactive-comment-section.png"
+      "OriginalItemSpec": "wwwroot\\img\\interactive-comment-section.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Introduction-to-deep-learning2.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\javascript_logo.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/Introduction-to-deep-learning2.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/Introduction-to-deep-learning2.png"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/javascript_logo.png",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/javascript_logo.png",
       "AssetKind": "All",
@@ -1442,13 +1408,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/javascript_logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\javascript_logo.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/javascript-coding-wallpaper-1.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\javascript-coding-wallpaper-1.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/javascript-coding-wallpaper-1.jpg",
       "AssetKind": "All",
@@ -1459,13 +1425,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/javascript-coding-wallpaper-1.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\javascript-coding-wallpaper-1.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/javascript.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\javascript.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/javascript.png",
       "AssetKind": "All",
@@ -1476,13 +1442,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/javascript.png"
+      "OriginalItemSpec": "wwwroot\\img\\javascript.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/keras-logo.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\keras-logo.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/keras-logo.png",
       "AssetKind": "All",
@@ -1493,13 +1459,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/keras-logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\keras-logo.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/matplotlib-logo-1-500x500.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\matplotlib-logo-1-500x500.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/matplotlib-logo-1-500x500.jpg",
       "AssetKind": "All",
@@ -1510,13 +1476,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/matplotlib-logo-1-500x500.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\matplotlib-logo-1-500x500.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/matplotlib-logo-1.svg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\matplotlib-logo-1.svg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/matplotlib-logo-1.svg",
       "AssetKind": "All",
@@ -1527,13 +1493,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/matplotlib-logo-1.svg"
+      "OriginalItemSpec": "wwwroot\\img\\matplotlib-logo-1.svg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/minimal-ai-wallpaper.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\minimal-ai-wallpaper.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/minimal-ai-wallpaper.jpg",
       "AssetKind": "All",
@@ -1544,13 +1510,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/minimal-ai-wallpaper.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\minimal-ai-wallpaper.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg",
       "AssetKind": "All",
@@ -1561,15 +1527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Mithat_Uçar_Resume.pdf",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Mithat_Ucar_Resume.pdf",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
-      "RelativePath": "img/Mithat_Uçar_Resume.pdf",
+      "RelativePath": "img/Mithat_Ucar_Resume.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1578,115 +1544,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/Mithat_Uçar_Resume.pdf"
+      "OriginalItemSpec": "wwwroot\\img\\Mithat_Ucar_Resume.pdf"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-algorithms-stanford-2-800x500.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\mysql-logo-1-300x300.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/mooc-algorithms-stanford-2-800x500.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/mooc-algorithms-stanford-2-800x500.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-algorithms-stanford-2.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/mooc-algorithms-stanford-2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/mooc-algorithms-stanford-2.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-algorithms-stanford.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/mooc-algorithms-stanford.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/mooc-algorithms-stanford.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-machine-learning-coursera-800x500.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/mooc-machine-learning-coursera-800x500.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/mooc-machine-learning-coursera-800x500.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-machine-learning-coursera.png",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/mooc-machine-learning-coursera.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/mooc-machine-learning-coursera.png"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/my-passport-photo-square.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/my-passport-photo-square.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/my-passport-photo-square.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mysql-logo-1-300x300.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/mysql-logo-1-300x300.jpg",
       "AssetKind": "All",
@@ -1697,13 +1561,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/mysql-logo-1-300x300.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\mysql-logo-1-300x300.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mysql-logo-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\mysql-logo-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/mysql-logo-1.png",
       "AssetKind": "All",
@@ -1714,13 +1578,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/mysql-logo-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\mysql-logo-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/NET_Core_Logo.svg.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\NET_Core_Logo.svg.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/NET_Core_Logo.svg.png",
       "AssetKind": "All",
@@ -1731,13 +1595,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/NET_Core_Logo.svg.png"
+      "OriginalItemSpec": "wwwroot\\img\\NET_Core_Logo.svg.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/nodejs.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\nodejs.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/nodejs.png",
       "AssetKind": "All",
@@ -1748,13 +1612,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/nodejs.png"
+      "OriginalItemSpec": "wwwroot\\img\\nodejs.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/nodemon-logo-9F66F45AB1-seeklogo.com.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\nodemon-logo-9F66F45AB1-seeklogo.com.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/nodemon-logo-9F66F45AB1-seeklogo.com.png",
       "AssetKind": "All",
@@ -1765,13 +1629,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/nodemon-logo-9F66F45AB1-seeklogo.com.png"
+      "OriginalItemSpec": "wwwroot\\img\\nodemon-logo-9F66F45AB1-seeklogo.com.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/numpy-logo-1-500x500.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\numpy-logo-1-500x500.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/numpy-logo-1-500x500.jpg",
       "AssetKind": "All",
@@ -1782,13 +1646,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/numpy-logo-1-500x500.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\numpy-logo-1-500x500.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/numpy-logo-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\numpy-logo-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/numpy-logo-1.png",
       "AssetKind": "All",
@@ -1799,13 +1663,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/numpy-logo-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\numpy-logo-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/opencv-logo-1-500x500.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\opencv-logo-1-500x500.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/opencv-logo-1-500x500.jpg",
       "AssetKind": "All",
@@ -1816,13 +1680,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/opencv-logo-1-500x500.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\opencv-logo-1-500x500.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/opencv-logo-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\opencv-logo-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/opencv-logo-1.png",
       "AssetKind": "All",
@@ -1833,13 +1697,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/opencv-logo-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\opencv-logo-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/pandas-logo-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\pandas-logo-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/pandas-logo-1.png",
       "AssetKind": "All",
@@ -1850,13 +1714,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/pandas-logo-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\pandas-logo-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/pandas-logo-2-500x500.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\pandas-logo-2-500x500.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/pandas-logo-2-500x500.jpg",
       "AssetKind": "All",
@@ -1867,13 +1731,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/pandas-logo-2-500x500.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\pandas-logo-2-500x500.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/pandas-logo-2.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\pandas-logo-2.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/pandas-logo-2.png",
       "AssetKind": "All",
@@ -1884,13 +1748,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/pandas-logo-2.png"
+      "OriginalItemSpec": "wwwroot\\img\\pandas-logo-2.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/passage_wallpaper_by_trenchmaker.jpeg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\passage_wallpaper_by_trenchmaker.jpeg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/passage_wallpaper_by_trenchmaker.jpeg",
       "AssetKind": "All",
@@ -1901,13 +1765,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/passage_wallpaper_by_trenchmaker.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\passage_wallpaper_by_trenchmaker.jpeg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/postgresql-logo.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\postgresql-logo.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/postgresql-logo.png",
       "AssetKind": "All",
@@ -1918,13 +1782,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/postgresql-logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\postgresql-logo.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/postgresql.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\postgresql.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/postgresql.png",
       "AssetKind": "All",
@@ -1935,13 +1799,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/postgresql.png"
+      "OriginalItemSpec": "wwwroot\\img\\postgresql.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/premake-logo.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\premake-logo.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/premake-logo.png",
       "AssetKind": "All",
@@ -1952,13 +1816,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/premake-logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\premake-logo.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/profile_pic.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\profile_pic.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/profile_pic.jpg",
       "AssetKind": "All",
@@ -1969,149 +1833,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/profile_pic.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\profile_pic.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-a-Basic-Python-Setup-for-Machine-Learning-on-Windows_Watermarked.webp",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\python-logo-1-300x300.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/project-a-Basic-Python-Setup-for-Machine-Learning-on-Windows_Watermarked.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/project-a-Basic-Python-Setup-for-Machine-Learning-on-Windows_Watermarked.webp"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ai-1-1378x1000.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/project-ai-1-1378x1000.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/project-ai-1-1378x1000.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ai-1.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/project-ai-1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/project-ai-1.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-AI-1378x1000.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/project-AI-1378x1000.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/project-AI-1378x1000.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-AI.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/project-AI.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/project-AI.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-aim_bert-bias.png",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/project-aim_bert-bias.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/project-aim_bert-bias.png"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-blog-logo.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/project-blog-logo.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/project-blog-logo.jpg"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-build-a-Recommendation-Engine-With-Collaborative-Filtering_Watermarked.webp",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/project-build-a-Recommendation-Engine-With-Collaborative-Filtering_Watermarked.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/project-build-a-Recommendation-Engine-With-Collaborative-Filtering_Watermarked.webp"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/python-logo-1-300x300.jpg",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/python-logo-1-300x300.jpg",
       "AssetKind": "All",
@@ -2122,13 +1850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/python-logo-1-300x300.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\python-logo-1-300x300.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/python-logo-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\python-logo-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/python-logo-1.png",
       "AssetKind": "All",
@@ -2139,13 +1867,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/python-logo-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\python-logo-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/python-logo-2.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\python-logo-2.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/python-logo-2.png",
       "AssetKind": "All",
@@ -2156,13 +1884,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/python-logo-2.png"
+      "OriginalItemSpec": "wwwroot\\img\\python-logo-2.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/python-wallpaper-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\python-wallpaper-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/python-wallpaper-1.png",
       "AssetKind": "All",
@@ -2173,30 +1901,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/python-wallpaper-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\python-wallpaper-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/pytorch-logo.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\random-activity.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
-      "BasePath": "_content/final",
-      "RelativePath": "img/pytorch-logo.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/pytorch-logo.png"
-    },
-    {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/random-activity.png",
-      "SourceId": "final",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/random-activity.png",
       "AssetKind": "All",
@@ -2207,13 +1918,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/random-activity.png"
+      "OriginalItemSpec": "wwwroot\\img\\random-activity.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/React-icon.svg.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\React-icon.svg.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/React-icon.svg.png",
       "AssetKind": "All",
@@ -2224,13 +1935,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/React-icon.svg.png"
+      "OriginalItemSpec": "wwwroot\\img\\React-icon.svg.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/SFMLGameEngineEdit.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\SFMLGameEngineEdit.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/SFMLGameEngineEdit.png",
       "AssetKind": "All",
@@ -2241,13 +1952,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/SFMLGameEngineEdit.png"
+      "OriginalItemSpec": "wwwroot\\img\\SFMLGameEngineEdit.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/shell-logo-1-300x300.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\shell-logo-1-300x300.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/shell-logo-1-300x300.jpg",
       "AssetKind": "All",
@@ -2258,13 +1969,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/shell-logo-1-300x300.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\shell-logo-1-300x300.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/shell-logo-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\shell-logo-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/shell-logo-1.png",
       "AssetKind": "All",
@@ -2275,13 +1986,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/shell-logo-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\shell-logo-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/sk-learn-logo-1-500x500.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\sk-learn-logo-1-500x500.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/sk-learn-logo-1-500x500.jpg",
       "AssetKind": "All",
@@ -2292,13 +2003,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/sk-learn-logo-1-500x500.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\sk-learn-logo-1-500x500.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/sk-learn-logo-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\sk-learn-logo-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/sk-learn-logo-1.png",
       "AssetKind": "All",
@@ -2309,13 +2020,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/sk-learn-logo-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\sk-learn-logo-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/swift-og.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\swift-og.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/swift-og.png",
       "AssetKind": "All",
@@ -2326,13 +2037,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/swift-og.png"
+      "OriginalItemSpec": "wwwroot\\img\\swift-og.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/tensorflow-logo-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\tensorflow-logo-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/tensorflow-logo-1.png",
       "AssetKind": "All",
@@ -2343,13 +2054,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/tensorflow-logo-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\tensorflow-logo-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Unity_Technologies_logo.svg.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Unity_Technologies_logo.svg.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/Unity_Technologies_logo.svg.png",
       "AssetKind": "All",
@@ -2360,13 +2071,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/Unity_Technologies_logo.svg.png"
+      "OriginalItemSpec": "wwwroot\\img\\Unity_Technologies_logo.svg.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/unix-shell-logo-1.png",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\unix-shell-logo-1.png",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/unix-shell-logo-1.png",
       "AssetKind": "All",
@@ -2377,13 +2088,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/unix-shell-logo-1.png"
+      "OriginalItemSpec": "wwwroot\\img\\unix-shell-logo-1.png"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/white-ai-wallpaper.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\white-ai-wallpaper.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/white-ai-wallpaper.jpg",
       "AssetKind": "All",
@@ -2394,13 +2105,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/white-ai-wallpaper.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\white-ai-wallpaper.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/write-compile-run-repeat.jpg",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\write-compile-run-repeat.jpg",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/write-compile-run-repeat.jpg",
       "AssetKind": "All",
@@ -2411,13 +2122,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/write-compile-run-repeat.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\write-compile-run-repeat.jpg"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/zhiffy.jpg.webp",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\zhiffy.jpg.webp",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "img/zhiffy.jpg.webp",
       "AssetKind": "All",
@@ -2428,13 +2139,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/zhiffy.jpg.webp"
+      "OriginalItemSpec": "wwwroot\\img\\zhiffy.jpg.webp"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/js/site.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\js\\site.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2445,13 +2156,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2462,13 +2173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2479,13 +2190,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2496,13 +2207,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2513,13 +2224,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2530,13 +2241,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2547,13 +2258,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2564,13 +2275,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2581,13 +2292,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2598,13 +2309,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2615,13 +2326,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2632,13 +2343,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2649,13 +2360,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2666,13 +2377,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2683,13 +2394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2700,13 +2411,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2717,13 +2428,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2734,13 +2445,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2751,13 +2462,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2768,13 +2479,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2785,13 +2496,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2802,13 +2513,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2819,13 +2530,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2836,13 +2547,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2853,13 +2564,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2870,13 +2581,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2887,13 +2598,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2904,13 +2615,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2921,13 +2632,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2938,13 +2649,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2955,13 +2666,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2972,13 +2683,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2989,13 +2700,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3006,13 +2717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3023,13 +2734,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3040,13 +2751,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3057,13 +2768,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3074,13 +2785,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3091,13 +2802,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3108,13 +2819,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3125,13 +2836,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3142,13 +2853,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3159,13 +2870,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3176,13 +2887,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3193,13 +2904,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3210,13 +2921,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3227,13 +2938,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3244,13 +2955,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3261,13 +2972,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3278,13 +2989,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3295,13 +3006,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3312,13 +3023,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3329,13 +3040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3346,13 +3057,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3363,13 +3074,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3380,13 +3091,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3397,13 +3108,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "final",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/",
+      "ContentRoot": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\",
       "BasePath": "_content/final",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3414,7 +3125,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     }
   ]
 }

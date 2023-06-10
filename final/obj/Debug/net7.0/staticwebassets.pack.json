@@ -1,815 +1,747 @@
 {
   "Files": [
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/obj/Debug/net7.0/scopedcss/projectbundle/final.bundle.scp.css",
-      "PackagePath": "staticwebassets/final.bundle.scp.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\final.bundle.scp.css",
+      "PackagePath": "staticwebassets\\final.bundle.scp.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/.DS_Store",
-      "PackagePath": "staticwebassets/.DS_Store"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\.DS_Store",
+      "PackagePath": "staticwebassets\\.DS_Store"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/.DS_Store",
-      "PackagePath": "staticwebassets/img/.DS_Store"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\.DS_Store"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/01.jpeg",
-      "PackagePath": "staticwebassets/img/01.jpeg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\01.jpeg",
+      "PackagePath": "staticwebassets\\img\\01.jpeg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1 8N_C_zr-esOi-hjnzfURAg.png",
-      "PackagePath": "staticwebassets/img/1 8N_C_zr-esOi-hjnzfURAg.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1 8N_C_zr-esOi-hjnzfURAg.png",
+      "PackagePath": "staticwebassets\\img\\1 8N_C_zr-esOi-hjnzfURAg.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1 HgXA9v1EsqlrRDaC_iORhQ.png",
-      "PackagePath": "staticwebassets/img/1 HgXA9v1EsqlrRDaC_iORhQ.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1 HgXA9v1EsqlrRDaC_iORhQ.png",
+      "PackagePath": "staticwebassets\\img\\1 HgXA9v1EsqlrRDaC_iORhQ.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1 m9sSpxg6bsRgOZF7Rbyokw.png",
-      "PackagePath": "staticwebassets/img/1 m9sSpxg6bsRgOZF7Rbyokw.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1 m9sSpxg6bsRgOZF7Rbyokw.png",
+      "PackagePath": "staticwebassets\\img\\1 m9sSpxg6bsRgOZF7Rbyokw.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1024.webp",
-      "PackagePath": "staticwebassets/img/1024.webp"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1024.webp",
+      "PackagePath": "staticwebassets\\img\\1024.webp"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/1200px-SFML_Logo.svg.png",
-      "PackagePath": "staticwebassets/img/1200px-SFML_Logo.svg.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\1200px-SFML_Logo.svg.png",
+      "PackagePath": "staticwebassets\\img\\1200px-SFML_Logo.svg.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/2373842_a332_2.jpg",
-      "PackagePath": "staticwebassets/img/2373842_a332_2.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\2373842_a332_2.jpg",
+      "PackagePath": "staticwebassets\\img\\2373842_a332_2.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/540px-Npm-logo.svg.png",
-      "PackagePath": "staticwebassets/img/540px-Npm-logo.svg.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\540px-Npm-logo.svg.png",
+      "PackagePath": "staticwebassets\\img\\540px-Npm-logo.svg.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/596913-1NFHA11523374623.jpeg",
-      "PackagePath": "staticwebassets/img/596913-1NFHA11523374623.jpeg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\596913-1NFHA11523374623.jpeg",
+      "PackagePath": "staticwebassets\\img\\596913-1NFHA11523374623.jpeg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/93768e7290bc8c8473a02561ac4e608642cfbaca.png",
-      "PackagePath": "staticwebassets/img/93768e7290bc8c8473a02561ac4e608642cfbaca.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\93768e7290bc8c8473a02561ac4e608642cfbaca.png",
+      "PackagePath": "staticwebassets\\img\\93768e7290bc8c8473a02561ac4e608642cfbaca.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg",
-      "PackagePath": "staticwebassets/img/Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg",
+      "PackagePath": "staticwebassets\\img\\Blog-Images-Forget-Machine-Learning-Humans-Still-Have-a-Lot-to-Learn-Part-II.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/C-C-C-1.png",
-      "PackagePath": "staticwebassets/img/C-C-C-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\C-C-C-1.png",
+      "PackagePath": "staticwebassets\\img\\C-C-C-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Deep-learning-for-computer-vision2.png",
-      "PackagePath": "staticwebassets/img/Deep-learning-for-computer-vision2.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Deep-learning-for-computer-vision2.png",
+      "PackagePath": "staticwebassets\\img\\Deep-learning-for-computer-vision2.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Introduction-to-deep-learning2.png",
-      "PackagePath": "staticwebassets/img/Introduction-to-deep-learning2.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg",
+      "PackagePath": "staticwebassets\\img\\Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg",
-      "PackagePath": "staticwebassets/img/Minimalist-Desktop-Wallpaper-HD-Free-download.jpeg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Mithat_Ucar_Resume.pdf",
+      "PackagePath": "staticwebassets\\img\\Mithat_Ucar_Resume.pdf"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Mithat_Uçar_Resume.pdf",
-      "PackagePath": "staticwebassets/img/Mithat_Uçar_Resume.pdf"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\NET_Core_Logo.svg.png",
+      "PackagePath": "staticwebassets\\img\\NET_Core_Logo.svg.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/NET_Core_Logo.svg.png",
-      "PackagePath": "staticwebassets/img/NET_Core_Logo.svg.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\React-icon.svg.png",
+      "PackagePath": "staticwebassets\\img\\React-icon.svg.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/React-icon.svg.png",
-      "PackagePath": "staticwebassets/img/React-icon.svg.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\SFMLGameEngineEdit.png",
+      "PackagePath": "staticwebassets\\img\\SFMLGameEngineEdit.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/SFMLGameEngineEdit.png",
-      "PackagePath": "staticwebassets/img/SFMLGameEngineEdit.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\Unity_Technologies_logo.svg.png",
+      "PackagePath": "staticwebassets\\img\\Unity_Technologies_logo.svg.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/Unity_Technologies_logo.svg.png",
-      "PackagePath": "staticwebassets/img/Unity_Technologies_logo.svg.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg",
+      "PackagePath": "staticwebassets\\img\\ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg",
-      "PackagePath": "staticwebassets/img/ab85bffa87c5a40419b7e03f0ec7b8e0.jpeg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\ai-wallpaper-1.jpg",
+      "PackagePath": "staticwebassets\\img\\ai-wallpaper-1.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/ai-wallpaper-1.jpg",
-      "PackagePath": "staticwebassets/img/ai-wallpaper-1.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\arniva.jpeg",
+      "PackagePath": "staticwebassets\\img\\arniva.jpeg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/arniva.jpeg",
-      "PackagePath": "staticwebassets/img/arniva.jpeg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\aws-logo.png",
+      "PackagePath": "staticwebassets\\img\\aws-logo.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/aws-logo.png",
-      "PackagePath": "staticwebassets/img/aws-logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\aws.png",
+      "PackagePath": "staticwebassets\\img\\aws.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/aws.png",
-      "PackagePath": "staticwebassets/img/aws.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\bg.png",
+      "PackagePath": "staticwebassets\\img\\bg.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/bg.png",
-      "PackagePath": "staticwebassets/img/bg.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\bootstrap.png",
+      "PackagePath": "staticwebassets\\img\\bootstrap.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/bootstrap.png",
-      "PackagePath": "staticwebassets/img/bootstrap.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\cardealer-html-automotive-website-template.jpeg",
+      "PackagePath": "staticwebassets\\img\\cardealer-html-automotive-website-template.jpeg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/cardealer-html-automotive-website-template.jpeg",
-      "PackagePath": "staticwebassets/img/cardealer-html-automotive-website-template.jpeg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\computer-vision-v2-04.png",
+      "PackagePath": "staticwebassets\\img\\computer-vision-v2-04.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/computer-vision-v2-04.png",
-      "PackagePath": "staticwebassets/img/computer-vision-v2-04.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\css3-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\css3-300x300.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/css3-300x300.jpg",
-      "PackagePath": "staticwebassets/img/css3-300x300.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\css3.png",
+      "PackagePath": "staticwebassets\\img\\css3.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/css3.png",
-      "PackagePath": "staticwebassets/img/css3.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\eat-sleep-code-repeat-wallpaper.jpg",
+      "PackagePath": "staticwebassets\\img\\eat-sleep-code-repeat-wallpaper.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/django-logo.webp",
-      "PackagePath": "staticwebassets/img/django-logo.webp"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-cignex-logo-250x250.jpg",
+      "PackagePath": "staticwebassets\\img\\exp-cignex-logo-250x250.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/eat-sleep-code-repeat-wallpaper.jpg",
-      "PackagePath": "staticwebassets/img/eat-sleep-code-repeat-wallpaper.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-cignex-logo-500x500.jpg",
+      "PackagePath": "staticwebassets\\img\\exp-cignex-logo-500x500.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-cignex-logo-250x250.jpg",
-      "PackagePath": "staticwebassets/img/exp-cignex-logo-250x250.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-cignex-logo.png",
+      "PackagePath": "staticwebassets\\img\\exp-cignex-logo.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-cignex-logo-500x500.jpg",
-      "PackagePath": "staticwebassets/img/exp-cignex-logo-500x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-meditab-logo-250x250.jpg",
+      "PackagePath": "staticwebassets\\img\\exp-meditab-logo-250x250.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-cignex-logo.png",
-      "PackagePath": "staticwebassets/img/exp-cignex-logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-meditab-logo-500x500.jpg",
+      "PackagePath": "staticwebassets\\img\\exp-meditab-logo-500x500.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-meditab-logo-250x250.jpg",
-      "PackagePath": "staticwebassets/img/exp-meditab-logo-250x250.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-meditab-logo.png",
+      "PackagePath": "staticwebassets\\img\\exp-meditab-logo.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-meditab-logo-500x500.jpg",
-      "PackagePath": "staticwebassets/img/exp-meditab-logo-500x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-mtag-logo-250x250.jpg",
+      "PackagePath": "staticwebassets\\img\\exp-mtag-logo-250x250.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-meditab-logo.png",
-      "PackagePath": "staticwebassets/img/exp-meditab-logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-mtag-logo-500x500.jpg",
+      "PackagePath": "staticwebassets\\img\\exp-mtag-logo-500x500.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-mtag-logo-250x250.jpg",
-      "PackagePath": "staticwebassets/img/exp-mtag-logo-250x250.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-mtag-logo.jpg",
+      "PackagePath": "staticwebassets\\img\\exp-mtag-logo.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-mtag-logo-500x500.jpg",
-      "PackagePath": "staticwebassets/img/exp-mtag-logo-500x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\exp-zhiffy-logo-1.webp",
+      "PackagePath": "staticwebassets\\img\\exp-zhiffy-logo-1.webp"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-mtag-logo.jpg",
-      "PackagePath": "staticwebassets/img/exp-mtag-logo.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\expressjs.webp",
+      "PackagePath": "staticwebassets\\img\\expressjs.webp"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/exp-zhiffy-logo-1.webp",
-      "PackagePath": "staticwebassets/img/exp-zhiffy-logo-1.webp"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/expressjs.webp",
-      "PackagePath": "staticwebassets/img/expressjs.webp"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-144x144.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\android-icon-144x144.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon.png",
-      "PackagePath": "staticwebassets/img/favicon.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-192x192.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\android-icon-192x192.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-144x144.png",
-      "PackagePath": "staticwebassets/img/favicon/android-icon-144x144.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-36x36.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\android-icon-36x36.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-192x192.png",
-      "PackagePath": "staticwebassets/img/favicon/android-icon-192x192.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-48x48.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\android-icon-48x48.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-36x36.png",
-      "PackagePath": "staticwebassets/img/favicon/android-icon-36x36.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-72x72.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\android-icon-72x72.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-48x48.png",
-      "PackagePath": "staticwebassets/img/favicon/android-icon-48x48.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\android-icon-96x96.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\android-icon-96x96.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-72x72.png",
-      "PackagePath": "staticwebassets/img/favicon/android-icon-72x72.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-114x114.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-114x114.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/android-icon-96x96.png",
-      "PackagePath": "staticwebassets/img/favicon/android-icon-96x96.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-120x120.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-120x120.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-114x114.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-114x114.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-144x144.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-144x144.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-120x120.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-120x120.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-152x152.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-152x152.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-144x144.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-144x144.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-180x180.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-180x180.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-152x152.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-152x152.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-57x57.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-57x57.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-180x180.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-180x180.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-60x60.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-60x60.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-57x57.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-57x57.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-72x72.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-72x72.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-60x60.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-60x60.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-76x76.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-76x76.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-72x72.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-72x72.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon-precomposed.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon-precomposed.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-76x76.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-76x76.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\apple-icon.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon-precomposed.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon-precomposed.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\img\\favicon\\browserconfig.xml"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/apple-icon.png",
-      "PackagePath": "staticwebassets/img/favicon/apple-icon.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\favicon-16x16.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/browserconfig.xml",
-      "PackagePath": "staticwebassets/img/favicon/browserconfig.xml"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\favicon-32x32.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/favicon-16x16.png",
-      "PackagePath": "staticwebassets/img/favicon/favicon-16x16.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\favicon-96x96.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\favicon-96x96.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/favicon-32x32.png",
-      "PackagePath": "staticwebassets/img/favicon/favicon-32x32.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon\\favicon.ico"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/favicon-96x96.png",
-      "PackagePath": "staticwebassets/img/favicon/favicon-96x96.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\manifest.json",
+      "PackagePath": "staticwebassets\\img\\favicon\\manifest.json"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/favicon.ico",
-      "PackagePath": "staticwebassets/img/favicon/favicon.ico"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\ms-icon-144x144.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\ms-icon-144x144.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/manifest.json",
-      "PackagePath": "staticwebassets/img/favicon/manifest.json"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\ms-icon-150x150.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\ms-icon-150x150.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/ms-icon-144x144.png",
-      "PackagePath": "staticwebassets/img/favicon/ms-icon-144x144.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\ms-icon-310x310.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\ms-icon-310x310.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/ms-icon-150x150.png",
-      "PackagePath": "staticwebassets/img/favicon/ms-icon-150x150.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\favicon\\ms-icon-70x70.png",
+      "PackagePath": "staticwebassets\\img\\favicon\\ms-icon-70x70.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/ms-icon-310x310.png",
-      "PackagePath": "staticwebassets/img/favicon/ms-icon-310x310.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\featured_image-3.webp",
+      "PackagePath": "staticwebassets\\img\\featured_image-3.webp"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/favicon/ms-icon-70x70.png",
-      "PackagePath": "staticwebassets/img/favicon/ms-icon-70x70.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\flask-logo.png",
+      "PackagePath": "staticwebassets\\img\\flask-logo.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/featured_image-3.webp",
-      "PackagePath": "staticwebassets/img/featured_image-3.webp"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\frontend-mentor-logo.png",
+      "PackagePath": "staticwebassets\\img\\frontend-mentor-logo.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/flask-logo.png",
-      "PackagePath": "staticwebassets/img/flask-logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\futuristic-wallpaper.jpg",
+      "PackagePath": "staticwebassets\\img\\futuristic-wallpaper.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/frontend-mentor-logo.png",
-      "PackagePath": "staticwebassets/img/frontend-mentor-logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\gan.jpg",
+      "PackagePath": "staticwebassets\\img\\gan.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/futuristic-wallpaper.jpg",
-      "PackagePath": "staticwebassets/img/futuristic-wallpaper.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\git.png",
+      "PackagePath": "staticwebassets\\img\\git.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/gan.jpg",
-      "PackagePath": "staticwebassets/img/gan.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\github.png",
+      "PackagePath": "staticwebassets\\img\\github.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/git.png",
-      "PackagePath": "staticwebassets/img/git.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\heroku.png",
+      "PackagePath": "staticwebassets\\img\\heroku.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/github.png",
-      "PackagePath": "staticwebassets/img/github.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\html5-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\html5-300x300.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/heroku.png",
-      "PackagePath": "staticwebassets/img/heroku.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\html5.png",
+      "PackagePath": "staticwebassets\\img\\html5.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/html5-300x300.jpg",
-      "PackagePath": "staticwebassets/img/html5-300x300.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\interactive-comment-section.png",
+      "PackagePath": "staticwebassets\\img\\interactive-comment-section.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/html5.png",
-      "PackagePath": "staticwebassets/img/html5.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\javascript-coding-wallpaper-1.jpg",
+      "PackagePath": "staticwebassets\\img\\javascript-coding-wallpaper-1.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/interactive-comment-section.png",
-      "PackagePath": "staticwebassets/img/interactive-comment-section.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\javascript.png",
+      "PackagePath": "staticwebassets\\img\\javascript.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/javascript-coding-wallpaper-1.jpg",
-      "PackagePath": "staticwebassets/img/javascript-coding-wallpaper-1.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\javascript_logo.png",
+      "PackagePath": "staticwebassets\\img\\javascript_logo.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/javascript.png",
-      "PackagePath": "staticwebassets/img/javascript.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\keras-logo.png",
+      "PackagePath": "staticwebassets\\img\\keras-logo.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/javascript_logo.png",
-      "PackagePath": "staticwebassets/img/javascript_logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\matplotlib-logo-1-500x500.jpg",
+      "PackagePath": "staticwebassets\\img\\matplotlib-logo-1-500x500.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/keras-logo.png",
-      "PackagePath": "staticwebassets/img/keras-logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\matplotlib-logo-1.svg",
+      "PackagePath": "staticwebassets\\img\\matplotlib-logo-1.svg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/matplotlib-logo-1-500x500.jpg",
-      "PackagePath": "staticwebassets/img/matplotlib-logo-1-500x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\minimal-ai-wallpaper.jpg",
+      "PackagePath": "staticwebassets\\img\\minimal-ai-wallpaper.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/matplotlib-logo-1.svg",
-      "PackagePath": "staticwebassets/img/matplotlib-logo-1.svg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\mysql-logo-1-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\mysql-logo-1-300x300.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/minimal-ai-wallpaper.jpg",
-      "PackagePath": "staticwebassets/img/minimal-ai-wallpaper.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\mysql-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\mysql-logo-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-algorithms-stanford-2-800x500.jpg",
-      "PackagePath": "staticwebassets/img/mooc-algorithms-stanford-2-800x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\nodejs.png",
+      "PackagePath": "staticwebassets\\img\\nodejs.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-algorithms-stanford-2.jpg",
-      "PackagePath": "staticwebassets/img/mooc-algorithms-stanford-2.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\nodemon-logo-9F66F45AB1-seeklogo.com.png",
+      "PackagePath": "staticwebassets\\img\\nodemon-logo-9F66F45AB1-seeklogo.com.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-algorithms-stanford.jpg",
-      "PackagePath": "staticwebassets/img/mooc-algorithms-stanford.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\numpy-logo-1-500x500.jpg",
+      "PackagePath": "staticwebassets\\img\\numpy-logo-1-500x500.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-machine-learning-coursera-800x500.jpg",
-      "PackagePath": "staticwebassets/img/mooc-machine-learning-coursera-800x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\numpy-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\numpy-logo-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mooc-machine-learning-coursera.png",
-      "PackagePath": "staticwebassets/img/mooc-machine-learning-coursera.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\opencv-logo-1-500x500.jpg",
+      "PackagePath": "staticwebassets\\img\\opencv-logo-1-500x500.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/my-passport-photo-square.jpg",
-      "PackagePath": "staticwebassets/img/my-passport-photo-square.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\opencv-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\opencv-logo-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mysql-logo-1-300x300.jpg",
-      "PackagePath": "staticwebassets/img/mysql-logo-1-300x300.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\pandas-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\pandas-logo-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/mysql-logo-1.png",
-      "PackagePath": "staticwebassets/img/mysql-logo-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\pandas-logo-2-500x500.jpg",
+      "PackagePath": "staticwebassets\\img\\pandas-logo-2-500x500.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/nodejs.png",
-      "PackagePath": "staticwebassets/img/nodejs.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\pandas-logo-2.png",
+      "PackagePath": "staticwebassets\\img\\pandas-logo-2.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/nodemon-logo-9F66F45AB1-seeklogo.com.png",
-      "PackagePath": "staticwebassets/img/nodemon-logo-9F66F45AB1-seeklogo.com.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\passage_wallpaper_by_trenchmaker.jpeg",
+      "PackagePath": "staticwebassets\\img\\passage_wallpaper_by_trenchmaker.jpeg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/numpy-logo-1-500x500.jpg",
-      "PackagePath": "staticwebassets/img/numpy-logo-1-500x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\postgresql-logo.png",
+      "PackagePath": "staticwebassets\\img\\postgresql-logo.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/numpy-logo-1.png",
-      "PackagePath": "staticwebassets/img/numpy-logo-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\postgresql.png",
+      "PackagePath": "staticwebassets\\img\\postgresql.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/opencv-logo-1-500x500.jpg",
-      "PackagePath": "staticwebassets/img/opencv-logo-1-500x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\premake-logo.png",
+      "PackagePath": "staticwebassets\\img\\premake-logo.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/opencv-logo-1.png",
-      "PackagePath": "staticwebassets/img/opencv-logo-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\profile_pic.jpg",
+      "PackagePath": "staticwebassets\\img\\profile_pic.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/pandas-logo-1.png",
-      "PackagePath": "staticwebassets/img/pandas-logo-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\python-logo-1-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\python-logo-1-300x300.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/pandas-logo-2-500x500.jpg",
-      "PackagePath": "staticwebassets/img/pandas-logo-2-500x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\python-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\python-logo-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/pandas-logo-2.png",
-      "PackagePath": "staticwebassets/img/pandas-logo-2.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\python-logo-2.png",
+      "PackagePath": "staticwebassets\\img\\python-logo-2.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/passage_wallpaper_by_trenchmaker.jpeg",
-      "PackagePath": "staticwebassets/img/passage_wallpaper_by_trenchmaker.jpeg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\python-wallpaper-1.png",
+      "PackagePath": "staticwebassets\\img\\python-wallpaper-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/postgresql-logo.png",
-      "PackagePath": "staticwebassets/img/postgresql-logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\random-activity.png",
+      "PackagePath": "staticwebassets\\img\\random-activity.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/postgresql.png",
-      "PackagePath": "staticwebassets/img/postgresql.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\shell-logo-1-300x300.jpg",
+      "PackagePath": "staticwebassets\\img\\shell-logo-1-300x300.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/premake-logo.png",
-      "PackagePath": "staticwebassets/img/premake-logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\shell-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\shell-logo-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/profile_pic.jpg",
-      "PackagePath": "staticwebassets/img/profile_pic.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\sk-learn-logo-1-500x500.jpg",
+      "PackagePath": "staticwebassets\\img\\sk-learn-logo-1-500x500.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-AI-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-AI-1378x1000.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\sk-learn-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\sk-learn-logo-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-AI.jpg",
-      "PackagePath": "staticwebassets/img/project-AI.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\swift-og.png",
+      "PackagePath": "staticwebassets\\img\\swift-og.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-a-Basic-Python-Setup-for-Machine-Learning-on-Windows_Watermarked.webp",
-      "PackagePath": "staticwebassets/img/project-a-Basic-Python-Setup-for-Machine-Learning-on-Windows_Watermarked.webp"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\tensorflow-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\tensorflow-logo-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ai-1-1378x1000.jpg",
-      "PackagePath": "staticwebassets/img/project-ai-1-1378x1000.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\unix-shell-logo-1.png",
+      "PackagePath": "staticwebassets\\img\\unix-shell-logo-1.png"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-ai-1.jpg",
-      "PackagePath": "staticwebassets/img/project-ai-1.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\white-ai-wallpaper.jpg",
+      "PackagePath": "staticwebassets\\img\\white-ai-wallpaper.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-aim_bert-bias.png",
-      "PackagePath": "staticwebassets/img/project-aim_bert-bias.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\write-compile-run-repeat.jpg",
+      "PackagePath": "staticwebassets\\img\\write-compile-run-repeat.jpg"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-blog-logo.jpg",
-      "PackagePath": "staticwebassets/img/project-blog-logo.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\img\\zhiffy.jpg.webp",
+      "PackagePath": "staticwebassets\\img\\zhiffy.jpg.webp"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/project-build-a-Recommendation-Engine-With-Collaborative-Filtering_Watermarked.webp",
-      "PackagePath": "staticwebassets/img/project-build-a-Recommendation-Engine-With-Collaborative-Filtering_Watermarked.webp"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/python-logo-1-300x300.jpg",
-      "PackagePath": "staticwebassets/img/python-logo-1-300x300.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/python-logo-1.png",
-      "PackagePath": "staticwebassets/img/python-logo-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/python-logo-2.png",
-      "PackagePath": "staticwebassets/img/python-logo-2.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/python-wallpaper-1.png",
-      "PackagePath": "staticwebassets/img/python-wallpaper-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/pytorch-logo.png",
-      "PackagePath": "staticwebassets/img/pytorch-logo.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/random-activity.png",
-      "PackagePath": "staticwebassets/img/random-activity.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/shell-logo-1-300x300.jpg",
-      "PackagePath": "staticwebassets/img/shell-logo-1-300x300.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/shell-logo-1.png",
-      "PackagePath": "staticwebassets/img/shell-logo-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/sk-learn-logo-1-500x500.jpg",
-      "PackagePath": "staticwebassets/img/sk-learn-logo-1-500x500.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/sk-learn-logo-1.png",
-      "PackagePath": "staticwebassets/img/sk-learn-logo-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/swift-og.png",
-      "PackagePath": "staticwebassets/img/swift-og.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/tensorflow-logo-1.png",
-      "PackagePath": "staticwebassets/img/tensorflow-logo-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/unix-shell-logo-1.png",
-      "PackagePath": "staticwebassets/img/unix-shell-logo-1.png"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/white-ai-wallpaper.jpg",
-      "PackagePath": "staticwebassets/img/white-ai-wallpaper.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/write-compile-run-repeat.jpg",
-      "PackagePath": "staticwebassets/img/write-compile-run-repeat.jpg"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/img/zhiffy.jpg.webp",
-      "PackagePath": "staticwebassets/img/zhiffy.jpg.webp"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "Id": "C:\\Users\\mitha\\Desktop\\Portfolio\\final\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
-    },
-    {
-      "Id": "/Users/mithatucar/Desktop/Portfolio/final/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
-    },
-    {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.final.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.final.props",
       "PackagePath": "build\\final.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.final.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.final.props",
       "PackagePath": "buildMultiTargeting\\final.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.final.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.final.props",
       "PackagePath": "buildTransitive\\final.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.final.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.final.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     }
   ],
